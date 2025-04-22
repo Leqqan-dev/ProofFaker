@@ -5,8 +5,8 @@ import datetime, random, traceback, os
 import pyppeteer
 import asyncio
 import pytz
-channels = [1293281255227527212]
-token = ""
+channels = [1361443641045811404]
+token = "MTM2NDA1NjY3MzEzOTgxODU3Ng.GBOs8B.WpjdpKhQTAKHR8EY9WrgVYhHDpzM2i_RvNWTbk"
 
 locale_to_timezone = {
     discord.Locale.american_english: 'America/New_York',        # en-US
